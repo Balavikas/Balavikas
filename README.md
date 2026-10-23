@@ -5,3 +5,5 @@
 
 - 🌦️ [Weather App](https://weatherapp-7kz9.onrender.com)
 - 🎮 [Bingo Pen & Paper](https://bingo-pen-paper.vercel.app)
+
+Note: Some websites may be in a sleeping state due to inactivity. If a website doesn't load immediately, please wait 30–60 seconds and refresh the page to try again.
